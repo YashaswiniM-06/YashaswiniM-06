@@ -1,5 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,50:2E1065,100:7C3AED&height=180&section=header&text=Yashaswini%20M&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=building%20things%20that%20think.&descSize=16&descColor=C4B5FD&descAlignY=65" width="100%" alt="Yashaswini M — building things that think." />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=220&section=header&text=Yashaswini%20M&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20think.&descAlignY=62&descSize=19&descColor=a855f7"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:f5f3ff,30:ddd6fe,100:c4b5fd&height=220&section=header&text=Yashaswini%20M&fontSize=58&fontColor=2e1065&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20think.&descAlignY=62&descSize=19&descColor=6d28d9"
+  />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0:f5f3ff,30:ddd6fe,100:c4b5fd&height=220&section=header&text=Yashaswini%20M&fontSize=58&fontColor=2e1065&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20think.&descAlignY=62&descSize=19&descColor=6d28d9"
+    alt="Yashaswini M — building things that think."
+  />
+</picture>
 </div>
 
 
