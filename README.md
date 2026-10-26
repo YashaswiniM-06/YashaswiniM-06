@@ -1,19 +1,6 @@
 <div align="center">
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,30:302b63,100:24243e&height=220&section=header&text=Yashaswini%20M&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20think.&descAlignY=62&descSize=19&descColor=a855f7"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api?type=venom&color=0:f5f3ff,30:ddd6fe,100:c4b5fd&height=220&section=header&text=Yashaswini%20M&fontSize=58&fontColor=2e1065&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20think.&descAlignY=62&descSize=19&descColor=6d28d9"
-  />
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:f5f3ff,30:ddd6fe,100:c4b5fd&height=220&section=header&text=Yashaswini%20M&fontSize=58&fontColor=2e1065&animation=fadeIn&fontAlignY=40&desc=building%20things%20that%20think.&descAlignY=62&descSize=19&descColor=6d28d9"
-    alt="Yashaswini M — building things that think."
-  />
-</picture>
+  <h1>hey, i'm Yashaswini 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI%2FML+Undergrad+%7C+Bengaluru;building+things+that+think;turning+ideas+into+working+code;exploring+GenAI+%26+Multi-Agent+Systems" alt="Animated introduction"/>
 </div>
 
 
