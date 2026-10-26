@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>hey, i'm Yashaswini 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI%2FML+Undergrad+%7C+Bengaluru;building+things+that+think;turning+ideas+into+working+code;exploring+GenAI+%26+Multi-Agent+Systems" alt="Animated introduction"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0F172A&height=130&section=header&text=Yashaswini%20M&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=building%20things%20that%20think.&descSize=15&descColor=DDD6FE&descAlignY=58" alt="Yashaswini M — building things that think." />
 </div>
+
 
 
 
