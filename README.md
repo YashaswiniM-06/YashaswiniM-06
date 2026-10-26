@@ -1,8 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:6D28D9,100:A855F7&height=200&section=header&text=Yashaswini%20M&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=building%20things%20that%20think.&descAlignY=58&descSize=18" width="100%" alt="Yashaswini M — building things that think." />
-
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,50:2E1065,100:7C3AED&height=180&section=header&text=Yashaswini%20M&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=building%20things%20that%20think.&descSize=16&descColor=C4B5FD&descAlignY=65" width="100%" alt="Yashaswini M — building things that think." />
 </div>
+
 
 
 <br/>
