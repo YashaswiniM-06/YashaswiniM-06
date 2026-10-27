@@ -1,4 +1,4 @@
-<h1 align="center">Yashaswini M</h1>
+<h1 align="center">It's me Yashaswini M</h1>
 
 <p align="center"><strong>AI/ML • Generative AI • Building things that think.</strong></p>
 
