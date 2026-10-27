@@ -1,8 +1,6 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0F172A&height=200&section=header&text=Yashaswini%20M&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=building%20things%20that%20think.&descSize=17&descColor=DDD6FE&descAlignY=55" alt="Yashaswini M - building things that think"/>
-</div>
+<h1 align="center">Yashaswini M</h1>
 
-
+<p align="center"><strong>AI/ML • Generative AI • Building things that think.</strong></p>
 
 
 
@@ -28,13 +26,12 @@ Currently building AI systems that make interviewers, mentors, and security anal
 ```bash
 $ cat now.txt
 
-→  AceInterview.ai     # AI that interviews you better than most humans
-→  RepoGPT             # chat with any GitHub repo using RAG + Neo4j
-→  SentiX              # autonomous AI security ops center (IEEE 2025)
-→  LeetCode            # daily. no days off. it's a lifestyle at this point.
-→  multi-agent systems # because one AI isn't enough
+->  AceInterview.ai     # AI that interviews you better than most humans
+->  RepoGPT             # chat with any GitHub repo using RAG + Neo4j
+->  SentiX              # autonomous AI security ops center (IEEE 2025)
+->  LeetCode            # daily. no days off. it's a lifestyle at this point.
+->  multi-agent systems # because one AI isn't enough
 ```
-
 
 ## `// tools i actually reach for`
 
@@ -60,7 +57,7 @@ $ cat now.txt
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-0f3460?style=flat-square&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0f3460?style=flat-square&logoColor=white)
-![Multi--Agent](https://img.shields.io/badge/Multi--Agent_Systems-0f3460?style=flat-square&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-0f3460?style=flat-square&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0f3460?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-0f3460?style=flat-square&logo=amazonaws&logoColor=white)
 
@@ -72,7 +69,7 @@ $ cat now.txt
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashaswiniM-06&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&hide_title=false&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YashaswiniM-06&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&title_color=a855f7&icon_color=06b6d4&text_color=e2e8f0&bg_color=0d1117" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashaswiniM-06&layout=compact&theme=midnight-purple&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d1117" />
 
 </div>
@@ -86,11 +83,11 @@ $ cat now.txt
 ## `// not on my resume`
 
 ```
-  🧠 Curious mind, builder mindset.
-  🤖 Exploring AI beyond the hype and building beyond the basics.
-  ⚡ Turning complex problems into intelligent solutions.
-  💻 Code, experiment, break things, repeat.
-  🚀 Less hype, more building. Always evolving.
+  Curious mind, builder mindset.
+  Exploring AI beyond the hype and building beyond the basics.
+  Turning complex problems into intelligent solutions.
+  Code, experiment, break things, repeat.
+  Less hype, more building. Always evolving.
 ```
 
 ---
@@ -111,12 +108,7 @@ $ cat now.txt
   <img src="https://img.shields.io/badge/GITHUB-Follow_My_Work-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="45" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YashaswiniM-06&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
-
 </div>
-
 
 ---
 
