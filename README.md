@@ -1,4 +1,4 @@
-<h1 align="center">It's me Yashaswini M</h1>
+<h1 align="center">It's me Yashaswini M👋</h1>
 
 <p align="center"><strong>AI/ML • Generative AI • Building things that think.</strong></p>
 
@@ -83,11 +83,11 @@ $ cat now.txt
 ## `// not on my resume`
 
 ```
-  Curious mind, builder mindset.
-  Exploring AI beyond the hype and building beyond the basics.
-  Turning complex problems into intelligent solutions.
-  Code, experiment, break things, repeat.
-  Less hype, more building. Always evolving.
+  🧠 Curious mind, builder mindset.
+  🤖 Exploring AI beyond the hype and building beyond the basics.
+  ⚡ Turning complex problems into intelligent solutions.
+  💻 Code, experiment, break things, repeat.
+  🚀 Less hype, more building. Always evolving.
 ```
 
 ---
