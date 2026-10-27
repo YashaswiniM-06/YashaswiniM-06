@@ -16,7 +16,7 @@
 
 > *I don't just study AI — I build with it. AIML undergrad obsessed with shipping things that actually work, not just look good in a slide deck.*
 
-I'm at the intersection of **machine learning**, **full-stack engineering**, and "wait, this actually deployed?" moments.
+I'm at the intersection of **artificial intelligence and machine learning**, **full-stack engineering**, and "wait, this actually deployed?" moments.
 Currently building AI systems that make interviewers, mentors, and security analysts a little bit replaceable (in a good way).
 
 ---
